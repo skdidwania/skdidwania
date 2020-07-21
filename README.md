@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href="https://github.com/mishrraG">Arpit</a>
+### Hi there 👋 I'm <a href="https://github.com/skdidwania">Krishna</a>
 <a href="https://www.facebook.com/profile.php?id=100011739068029">
   <img align="left" alt="Krishna Didwania | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -11,18 +11,17 @@
 <br />
 <br />
 
-Hi, I'm Arpit Mishra, an Android Developer 🚀 from India, currently a CS Junior at <a href ="http://kiit.ac.in/">KIIT University</a>
+Hi, I'm Krishna Didwania, studying Computer Science, currently a CS Junior at <a href ="https://www.ucd.ie/">University College Dublin</a>
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 **Talking about Personal Stuff:**
 
 - 🔭 I’m currently working on a few Flutter projects.
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about Android Development, Competitive Programming and Technology in general.
-- 📫 How to reach me: <a href="mailto:arpitmishra4779@gmail.com">arpitmishra4779@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:skdidwania.15@gmail.com">skdidwania.15@gmail.com</a>
 - 😄 Pronouns: He / Him / Bro / Dude.
 - ⚡ Fun fact: Jack of All trades , master of pun 😂.
 
@@ -44,6 +43,6 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=mishrraG&show_icons=true&hide_border=true)
+![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=skdidwania&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also make a similar one for yourself. Star and Fork this [README](https://github.com/mishrraG/mishrraG) :pencil:
+:pushpin: Liked this introduction, You can also make a similar one for yourself. Star and Fork this [README](https://github.com/skdidwania/skdidwania) :pencil:
