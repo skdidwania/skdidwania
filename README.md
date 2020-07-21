@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm <a href="https://github.com/mishrraG">Arpit</a>
-<a href="https://twitter.com/mish_rr_a">
-  <img align="left" alt="Arpit Mishra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.facebook.com/profile.php?id=100011739068029">
+  <img align="left" alt="Krishna Didwania | Facebook" width="22px" src="https://www.iconfinder.com/icons/5296499/facebook_facebook_logo_fb_fcb_icon" />
 </a>
 <a href="https://www.linkedin.com/in/arpit-mishra-0892a3143/">
   <img align="left" alt="Arpit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
