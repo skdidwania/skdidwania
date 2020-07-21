@@ -23,7 +23,7 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 - 💬 Ask me about Android Development, Competitive Programming and Technology in general.
 - 📫 How to reach me: <a href="mailto:skdidwania.15@gmail.com">skdidwania.15@gmail.com</a>
 - 😄 Pronouns: He / Him / Bro / Dude.
-- ⚡ Fun fact: Jack of All trades , master of pun 😂.
+- ⚡ Fun fact: Jack of All trades
 
 &nbsp;
 <br>
