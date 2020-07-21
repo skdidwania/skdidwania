@@ -2,10 +2,10 @@
 <a href="https://www.facebook.com/profile.php?id=100011739068029">
   <img align="left" alt="Krishna Didwania | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/arpit-mishra-0892a3143/">
-  <img align="left" alt="Arpit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shri-krishna-didwania-b87322172/">
+  <img align="left" alt="Krishna's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mish_rr_a">
+<a href="https://www.instagram.com/skdidwania.15/">
   <img align="left" alt="Arpit's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
