@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Krishna Didwania, studying Computer Science, currently a CS Junior at <a href ="https://www.ucd.ie/">University College Dublin</a>
+Hi, I'm Krishna Didwania, studying Computer Science at <a href ="https://www.ucd.ie/">University College Dublin</a>
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺.
 
