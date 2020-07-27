@@ -18,7 +18,7 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working on a some python projects.
+- 🔭 I’m currently working on  some python projects.
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about Android Development, Competitive Programming and Technology in general.
 - 📫 How to reach me: <a href="mailto:skdidwania.15@gmail.com">skdidwania.15@gmail.com</a>
